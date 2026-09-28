@@ -1,6 +1,6 @@
 # YAML Linter, Formatter & Validator
 
-**Live demo:** https://babug01.github.io/yaml-formatter/
+**Live demo:** https://yaml-formatter-six.vercel.app (Vercel) · [GitHub Pages mirror](https://babug01.github.io/yaml-formatter/)
 
 A YAML formatter and linter with a real code editor and error locations you can actually act on —
 "line 63, column 8", not a vague parse failure. Runs entirely in the browser; nothing you paste
